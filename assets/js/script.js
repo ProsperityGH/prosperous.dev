@@ -40,8 +40,9 @@ function showPage(pageId, data=null) {
                 <p>• HTML(5)</p>\
                 <p>• CSS(3)</p>\
                 <p>• SASS/SCSS</p>\
-                <p>• JavaScript</p>\
+                <p>• JS/TS</p>\
                 <p>• Python</p>\
+                <p>• Lua</p>\
                 <p>• PHP</p>\
                 <p>• SQL</p>\
             </div> \
